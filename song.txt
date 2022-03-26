@@ -8,5 +8,3 @@ Shield by shield
 
 some content
 and here
-
-content in remote repository
